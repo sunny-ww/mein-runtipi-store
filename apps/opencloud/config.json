@@ -9,6 +9,6 @@
   "models": ["amd64", "arm64"],
   "version": "1.0.0",
   "revision": 1,
-  "author": "Dein Name",
-  "source": "https://github.com/dein-name/mein-runtipi-store"
+  "author": "sunny-ww",
+  "source": "https://github.com/sunny-ww/mein-runtipi-store"
 }
