@@ -1,0 +1,14 @@
+{
+  "name": "OpenCloud",
+  "id": "opencloud",
+  "description": "Meine private OpenCloud Instanz",
+  "shortDesc": "Cloud Speicher für Runtipi",
+  "port": 8080,
+  "available": true,
+  "categories": ["utilities", "media"],
+  "models": ["amd64", "arm64"],
+  "version": "1.0.0",
+  "revision": 1,
+  "author": "Dein Name",
+  "source": "https://github.com/dein-name/mein-runtipi-store"
+}
