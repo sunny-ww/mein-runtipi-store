@@ -8,6 +8,7 @@
   "categories": ["utilities", "media"],
   "models": ["amd64", "arm64"],
   "version": "1.0.0",
+  "min_tipi_version": "4.0.0",
   "revision": 1,
   "author": "sunny-ww",
   "source": "https://github.com/sunny-ww/mein-runtipi-store"
